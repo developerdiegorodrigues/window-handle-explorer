@@ -80,7 +80,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit4]
-FileName=mainMessageProcess.c
+FileName=mainMessageProcess.cpp
 CompileCpp=1
 Folder=
 Compile=1
@@ -90,7 +90,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit5]
-FileName=mainAuxiliaryFunctions.c
+FileName=mainAuxiliaryFunctions.cpp
 CompileCpp=1
 Folder=
 Compile=1
